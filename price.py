@@ -13,3 +13,5 @@ def format_price (price):
         
 f_p=format_price (56.24)
 print (f_p)
+
+print (price)
